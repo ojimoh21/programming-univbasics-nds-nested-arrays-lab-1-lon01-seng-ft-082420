@@ -25,7 +25,11 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
+<<<<<<< HEAD
   matrix[column][row]
+=======
+  
+>>>>>>> 33967115c2be7cf4dab0f1a52b1f382a2b24b11f
 end
 
 def matrix_update(matrix, row, column, new_value)
